@@ -1,0 +1,5 @@
+# CONFIG_PACKAGE_vim is not set
+# CONFIG_PACKAGE_vim-fuller is not set
+# CONFIG_PACKAGE_vim-help is not set
+CONFIG_PACKAGE_vim-runtime=y
+# CONFIG_PACKAGE_kmod is not set
